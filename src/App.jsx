@@ -5,7 +5,7 @@ import './App.css';
 const DEFAULT_TODOS = [
   {
     id: 'demo-1',
-    title: 'Welcome to Aura Tasks! 🚀',
+    title: 'Welcome to Vinoth Tasks! 🚀',
     priority: 'high',
     category: 'work',
     dueDate: new Date().toISOString().split('T')[0],
